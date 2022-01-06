@@ -10,6 +10,7 @@
  * Todos os estudantes deverão ler e tentar entender o que o código está fazendo, para levantarem questões e trazerem feedbacks nas reuniões semanais
  * Todos os códigos DEVEM ser escritos em Português; isso facilitará a inclusão de colegas do Brasil (falantes de Português / aqueles cuja língua nativa é Português)
  * Aqueles com frequência regular (toda quinzenal) terão acesso a uma pasta do Google Drive (com livros, tutoriais e materiais adicionais para contribuir para a formação / alfabetização em programação) e acesso de edição no repositório do Github.
+ * Os assuntos e temas devem abordar aspectos da Microbiologia
 
 ## Tópicos
 
