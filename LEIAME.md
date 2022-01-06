@@ -2,7 +2,7 @@
 
 ## Objetivos
 
- * Alfabetização em programação para análise de dados biológicos
+ * Alfabetização em programação para análise de dados biológicos (microbiologia)
 
 ## Regras do grupo
 
