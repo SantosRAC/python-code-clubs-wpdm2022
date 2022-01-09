@@ -16,6 +16,7 @@
 
  * Estruturas de dados e lógica de programação
  - Variáveis (Janeiro)
+ - Números (inteiros, float, complexos)
  - Sequências (strings, listas, tuplas) (Janeiro)
  - Estruturas de controle (Fevereiro)
  - Estruturas de decisão (Fevereiro)
